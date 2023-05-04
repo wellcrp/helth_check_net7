@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HelthCheck.Application
+build_property.RootNamespace = HelthCheck.Application
+build_property.ProjectDir = E:\CodeBox\Project-Estudos\C#\A18-Health Checks\helth_check_net7\Project-Helth-Check-Net7\HelthCheck.Application\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\CodeBox\Project-Estudos\C#\A18-Health Checks\helth_check_net7\Project-Helth-Check-Net7\HelthCheck.Application
+build_property._RazorSourceGeneratorDebug = 

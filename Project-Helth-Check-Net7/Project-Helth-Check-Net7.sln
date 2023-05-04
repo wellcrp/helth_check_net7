@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelthCheck.Application", "HelthCheck.Application\HelthCheck.Application.csproj", "{BD5B8145-B8D2-445C-ABA9-79494ED40F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD5B8145-B8D2-445C-ABA9-79494ED40F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5B8145-B8D2-445C-ABA9-79494ED40F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5B8145-B8D2-445C-ABA9-79494ED40F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5B8145-B8D2-445C-ABA9-79494ED40F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {528072DC-0569-4B2D-AF99-15EC32E4D268}
+	EndGlobalSection
+EndGlobal

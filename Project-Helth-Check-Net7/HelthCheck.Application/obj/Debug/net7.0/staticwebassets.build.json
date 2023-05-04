@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ml0XoSHcXd0kQBBOF3EVBL9iv4ATHYOFI6uSZLkuito=",
+  "Source": "HelthCheck.Application",
+  "BasePath": "_content/HelthCheck.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
